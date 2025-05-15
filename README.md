@@ -54,4 +54,4 @@ Sebuah website wisata interaktif dengan fitur lengkap, menampilkan berbagai dest
 1. Clone repository ini:
 
    ```bash
-   git clone https://github.com/username/repo-travel-website.git
+   git clone https://github.com/taa30/travel-with-us.git
